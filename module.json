@@ -1,0 +1,45 @@
+{
+  "id": "gnome-for-the-holidays-2",
+  "title": "Gnome for the Holidays 2",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Our adventurers receive a calling from our old friend, Glimmer Tinkerton! He has opened up his toy shop and has a surprise for us, an invitation to the beautiful village of Kuldahar. Time to enjoy the festivities of snowball fights, ice sculpting, big feasts, and meeting new friends.\n\nJoin us on a Christmas journey where the players engage in holiday themed events and fight back creatures of the cold winter.\n\nThis three-hour adventure is for characters between 3rd and 7th level. Since the damage and safety of characters in tiers 1 and 2 are vastly different, we have included scaling to the encounters.\n\nIn this adventure we have all new original content!\n\n• 4 NPCs\n\n• 1 Snowball fight encounter\n\n• Ice Golem Sculpting Tournament\n\n• 3 maps\n\n• 11 magic items\n\n• 1 awesome Christmas adventure!\n\nThis adventure has been played through and tested on our end with both the story and encounters changing based on feedback.\n\nAlternate starts have been provided for those who have not played the first Gnome for the Holidays or for folks who play Rime of the Frostmaiden and want to weave this one-shot into their campaign.\n\nWe would love to hear anything you have to say. Have a fun adventure and a Happy Holidays!",
+  "authors": [
+    {
+      "name": "Zrave",
+      "flags": {}
+    },
+    {
+      "name": "Apacolyps",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.dmsguild.com/product/504079/Gnome-for-the-Holidays-2--Winterfest-at-Kuldahar",
+  "manifest": "https://github.com/Apacolyps/Gnome-for-the-Holidays/releases/download/1.0.0/module.json",
+  "download": "https://github.com/Apacolyps/Gnome-for-the-Holidays/releases/download/1.0.0/gnome-for-the-holidays.zip",
+  "packs": [
+    {
+      "name": "gnome-for-the-holidays-2",
+      "label": "gnome for the holidays 2",
+      "path": "packs/gnome-for-the-holidays-2",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    }
+  ]
+}
