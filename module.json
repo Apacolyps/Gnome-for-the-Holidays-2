@@ -27,8 +27,8 @@
     }
   ],
   "url": "https://www.dmsguild.com/product/504079/Gnome-for-the-Holidays-2--Winterfest-at-Kuldahar",
-  "manifest": "https://github.com/Apacolyps/Gnome-for-the-Holidays/releases/download/1.0.0/module.json",
-  "download": "https://github.com/Apacolyps/Gnome-for-the-Holidays/releases/download/1.0.0/gnome-for-the-holidays.zip",
+  "manifest": "https://github.com/Apacolyps/Gnome-for-the-Holidays-2/releases/download/1.0.0/module.json",
+  "download": "https://github.com/Apacolyps/Gnome-for-the-Holidays-2/releases/download/1.0.0/gnome-for-the-holidays-2.zip",
   "packs": [
     {
       "name": "gnome-for-the-holidays-2",
